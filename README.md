@@ -1,1 +1,1 @@
-This project are created using frotend and backend technologies# wanderlust_project
+This project are created by using frotend and backend technologies.
